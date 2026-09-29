@@ -1,7 +1,7 @@
 
 # IAM-Foundations
 
-I am learning Cybersecurity. This project shows I can apply Module 1 concepts to IAM and GRC roles.
+I am learning Cybersecurity. This project shows I can apply foundamental concepts to IAM and GRC roles.
 
 ## What is inside?
 
